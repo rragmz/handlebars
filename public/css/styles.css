@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 165, 47);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 70px;
+    background-color: black;
+    color: gold;
+}
+
+img{
+    width: 400px;
+}
